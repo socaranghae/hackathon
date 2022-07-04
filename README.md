@@ -1,1 +1,1 @@
-# hackathon
+# Like LION X SOCAR Hackathon project
