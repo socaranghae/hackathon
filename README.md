@@ -15,10 +15,9 @@
     + [PJT_placepredict_3.ipynb](https://github.com/socaranghae/hackathon/blob/main/PJT_placepredict_3.ipynb)
     + [place_model_wMobileNet.ipynb](https://github.com/socaranghae/hackathon/blob/main/place_model_wMobileNet.ipynb)
   - 최종 모델 : train 결과 가장 높은 정확도를 나타낸 모델을 사용하기로 결정 
-    + [PJT_placepredict_4.ipynb](https://github.com/socaranghae/hackathon/blob/main/PJT_placepredict_4.ipynb)
-    + [model_final.pth](https://github.com/socaranghae/hackathon/blob/main/model_final.pth)
-    
+    + [PJT_placepredict_4.ipynb](https://github.com/socaranghae/hackathon/blob/main/PJT_placepredict_4.ipynb)    
 * Mood Predict Model (Mood Classifier)
-  - [_Mood_Classifier_ResNet50.ipynb](https://github.com/socaranghae/hackathon/blob/main/_Mood_Classifier_ResNet50.ipynb)
+  - Emotion6 Dataset 활용
+  - 최종 모델 : [_Mood_Classifier_ResNet50.ipynb](https://github.com/socaranghae/hackathon/blob/main/_Mood_Classifier_ResNet50.ipynb)
 * Demo Client(web) : 각 Model의 결과를 바탕으로 매칭되는 쿠폰 발급
   - [demo_client.py](https://github.com/socaranghae/hackathon/blob/main/demo_client.py)
